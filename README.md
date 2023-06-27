@@ -62,7 +62,6 @@ server.listen(8080, function(){
     - **`index.html`** 파일에서 아래 스크립트를 추가하여 파일을 로드합니다:
         
         ```jsx
-        htmlCopy code
         <script src="/socket.io/socket.io.js"></script>
         <script src="/js/index.js"></script>
         
